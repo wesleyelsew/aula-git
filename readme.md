@@ -3,4 +3,4 @@ Aula de Git
 Feito algumas alterações
 
 
-Feito alterações após o git clone
+Feito alterações após o git clone do clone
